@@ -1,0 +1,11 @@
+﻿Der Buildvorgang wurde am 27.01.2016 13:32:00 gestartet.
+     1>Projekt "Z:\SuDoKu\SuDoKu\SuDoKu.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         F:\Programme\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt SuDo.c
+         SuDo.c
+     1>c1 : fatal error C1083: Datei (Quelle) kann nicht geöffnet werden: "SuDo.c": No such file or directory
+     1>Die Erstellung des Projekts "Z:\SuDoKu\SuDoKu\SuDoKu.vcxproj" ist abgeschlossen, Build Ziel(e) -- FEHLER.
+
+Fehler beim Buildvorgang.
+
+Verstrichene Zeit 00:00:00.42
